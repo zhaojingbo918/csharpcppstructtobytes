@@ -1,0 +1,9 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs/CSharpStuctToBytes/v16
+/CSharpStuctToBytes/bin/Debug
+/CSharpStuctToBytes/obj/Debug
+/Project2/x64/Debug
+/x64/Debug
